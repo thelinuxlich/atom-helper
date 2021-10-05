@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/thelinuxlich/atom-helper/issues"
   },
-  "homepage": "https://github.com/thelinuxlich/atom-helper#readme"
+  "homepage": "https://github.com/thelinuxlich/atom-helper#readme",
+  "dependencies": {
+    "piscina": "^3.1.0"
+  }
 }
